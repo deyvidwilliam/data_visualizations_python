@@ -1,2 +1,3 @@
-# data_visualizations_python
-Data Visualizations in Python
+# Data Visualizations in Python
+
+1. Tests with Plotly
